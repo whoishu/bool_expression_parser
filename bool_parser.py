@@ -1,6 +1,5 @@
 # !/usr/bin/env python
 # -*- coding: utf-8 -*-
-# Copyright 2013, 2015 ppzuche Inc.
 # Author: huxx <hzd0107@hotmail.com>
 from __future__ import division
 
